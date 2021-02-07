@@ -1,0 +1,19 @@
+Visitor,"Paulina","Sidor","p@mail.com","1234","123456789","Student",1
+Visitor,"Daria","Rogowska","d@mail.com","1234","987654321","Student",1
+Visitor,"Anna","Kowalska","annak@mail.com","1234","132457689","Senior",0
+Visitor,"Adam","Kowalski","adamk@mail.com","1234","978653421","Senior",0
+Visitor,"Piotr","Nowak","pnowak@mail.com","1234","192837465","Kid",0
+Movie,"Titanic",25
+Movie,"Avengers",25
+Movie,"Krol Lew",30
+Hall,"A1",12,20
+Hall,"A2",15,25
+Hall,"B1",10,10
+Seance,2020,6,10,12,0,"twoD",0,0
+Seance,2020,6,10,18,0,"twoD",0,1
+Seance,2020,7,15,18,30,"threeD",1,1
+Seance,2020,7,20,10,0,"twoD",2,2
+Reservation,2,0,10,10
+Reservation,3,0,10,11
+Reservation,4,2,3,10
+Reservation,4,3,5,5
